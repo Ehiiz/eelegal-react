@@ -31,7 +31,7 @@ function App() {
 <p className="text-sm text-navGrey font-poppins"><a href="#about">ABOUT</a></p>
 <p className="text-sm text-navGrey font-poppins"><a href="mailto: eelegalconsult@gmail.com">CONSULT</a></p>
 </div>
-<button className="rounded-xl font-montserrat bg-legalBlue text-sm md:text-lg text-white block p-2 md:p-2 sm:hidden shadow-md">CALL NOW</button>
+<button className="rounded-xl font-montserrat bg-legalBlue text-sm md:text-lg text-white block p-2 md:p-2 sm:hidden shadow-md"><a href="tel:+2348033820666">CALL NOW</a></button>
 </nav>
 
 {/* Hero Page Section */}
@@ -51,22 +51,22 @@ function App() {
           we are here to ensure that the law protects you at all times</p>
       </div>
       <div className="w-full inline-flex flex-col items-center md:inline-grid md:grid-cols-2  gap-0">
-      <div className="bg-white self-center shadow-lg p-6 md:px-8 md:py-6 w-48 md:w-56 rounded-xl m-2">
+      <div className="bg-white self-center shadow-lg p-6 md:px-8 md:py-6 w-56 md:w-56 rounded-xl m-2">
         <Circle />
         <h3 className="text-featBrown font-playfair font-bold text-lg md:text-xl pb-2">Litigation and Arbitration</h3>
         <p className="text-navGrey font-poppins text-xs md:text-sm">We protect your interest through litigation and arbitration process for both criminal and civil cases</p>
       </div>
-      <div  className="bg-white shadow-lg p-6 md:px-8 md:py-6 w-48 md:w-56 rounded-xl m-2">
+      <div  className="bg-white shadow-lg p-6 md:px-8 md:py-6 w-56 md:w-56 rounded-xl m-2">
        <Bag />
         <h3 className="text-featBrown font-playfair  font-bold text-lg md:text-xl pb-2">Corporate and Commercial</h3>
         <p className="text-navGrey font-poppins text-xs md:text-sm">Serving to business continuity from drafting best-practice business policies to summation of patents trade secrets</p>
       </div>
-      <div  className="bg-white shadow-lg p-6 md:px-8 md:py-6 w-48 md:w-56  rounded-xl m-2">
+      <div  className="bg-white shadow-lg p-6 md:px-8 md:py-6 w-56 md:w-56  rounded-xl m-2">
        <Flow />
         <h3 className="text-featBrown font-playfair font-bold text-lg md:text-xl pb-2">Land and Housing</h3>
         <p className="text-navGrey font-poppins text-xs md:text-sm"> We helps in land procurement, tenancy agreements to provide a procurement and leasing process that protects you from future legal issues</p>
       </div>
-      <div  className="bg-white shadow-lg p-6 w-48 md:px-8 md:py-6 md:w-56 rounded-xl m-2">
+      <div  className="bg-white shadow-lg p-6 w-56 md:px-8 md:py-6 md:w-56 rounded-xl m-2">
      <Notary />
         <h3 className="text-featBrown font-playfair font-bold text-lg md:text-xl pb-2">Notary Services</h3>
         <p className="text-navGrey font-poppins text-xs md:text-sm"> Administration of oaths, annotation of affidavit evidence, sealing of contracts and deeds, attestation of legal documents and witnessing and certification of documents</p>
