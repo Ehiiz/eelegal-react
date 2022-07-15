@@ -36,11 +36,11 @@ export default function TestSlide(){
         <div className="w-full">
         <Fade>
          {slideImages.map((slideImage, index)=> (
-            <div className="w-full rounded-2xl h-64 py-2 px-2 flex items-center" key={index}>
+            <div className="w-full rounded-2xl object-contain py-2 px-2 flex items-center" key={index}>
               {/* <div style={{'backgroundImage': `url(${slideImage.url})`}}>
                 <span>{slideImage.caption}</span>
               </div> */}
-              <img className="w-full rounded-2xl items-center" src={slideImage.url} alt="" />
+              <img className="w-full rounded-2xl object-fill h-64 sm:h-96 items-center" src={slideImage.url} alt="" />
             </div>
           ))} 
         </Fade>
