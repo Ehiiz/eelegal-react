@@ -28,7 +28,11 @@ export default function TestSlide(){
           },
           {
             url: 'images/Barrister 3.jpeg',
-            caption: 'Slide 5'
+            caption: 'Slide 6'
+          },
+          {
+            url: 'images/Notary 11.jpeg',
+            caption: 'Slide 7'
           },
       ];
 

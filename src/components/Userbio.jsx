@@ -20,8 +20,8 @@ export default function Userbio(){
     <div class="flex flex-col w-full items-center border-bioText border-2 shadow-xl px-4 pt-2 pb-4 rounded-2xl md:w-3/5">
         <h2 className="text-base font-bold font-montserrat pt-1 text-bioText rounded-xl mt-4 mb-2">About the Founder</h2>
         <div className="font-poppins text-xs md:text-base">
-          <p>Barrister Emmanuel Esezobor Izibili is a legal practitioner and a Notary Public for Nigeria.
-            He is a catholic and a member of the Honored Order of The Knights of Saint Mulumba Nigeria.
+          <p>Barrister Esezobor Emmanuel Izibili is a legal practitioner and a Notary Public for Nigeria.
+            He is a catholic and a worthy brother of the Honored Order of The Knights of Saint Mulumba Nigeria.
             A firm believer in upholding fairness and law and a community builder.
             Having served and interned under some of Nigeria's most reputable lawyers; Chief Otunba Kunle Kalejaye SAN, Chief Mike Ozekhome SAN and Chief Akin Olujinmi SAN el ta.
             He founded EE Legal Consult to make law accessible for the common man.</p>
