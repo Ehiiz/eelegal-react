@@ -19,7 +19,7 @@ export default function TestSlide(){
           caption: 'Slide 3'
         },
         {
-            url: 'images/Barrister Notary.jpeg',
+            url: 'images/Barrister Court.jpeg',
             caption: 'Slide 4'
           },
           {
