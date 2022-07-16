@@ -31,7 +31,7 @@ export default function TestSlide(){
             caption: 'Slide 6'
           },
           {
-            url: 'images/Notary 11.jpeg',
+            url: 'images/Notary 12.jpeg',
             caption: 'Slide 7'
           },
       ];
